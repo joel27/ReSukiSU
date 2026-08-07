@@ -453,7 +453,6 @@
     <string name="module_shortcut_permission_tip_xiaomi">Please enable \"Create desktop shortcuts\" permission for this app in Xiaomi settings.</string>
     <string name="module_shortcut_permission_tip_oppo">Please enable \"Desktop shortcut\" permission for this app in OPPO settings.</string>
     <string name="module_shortcut_permission_tip_default">If shortcut creation fails, please enable desktop shortcut permission for this app in system settings.</string>
-
     <string name="download_channel_name">Module Downloads</string>
     <string name="download_progress_title">Downloading %s</string>
     <string name="download_complete_title">Download complete</string>
@@ -560,14 +559,13 @@
     <string name="susfs_backup_restore_default">Restore Default</string>
     <string name="susfs_backup_restore_default_desc">Delete current SuSFS config.</string>
     <string name="susfs_backup_default_filename">susfs_backup.json</string>
-
     <string name="dynamic_manager_settings_summary">Manage the dynamic manager signature</string>
     <string name="dynamic_manager_current_status">Current configuration</string>
     <string name="dynamic_manager_manual_config">Manual signature configuration</string>
     <string name="dynamic_manager_manual_config_summary">Set a custom signature size and hash</string>
     <string name="dynamic_manager_clear_config">Clear dynamic manager</string>
     <string name="dynamic_manager_clear_config_summary">Disable the dynamic manager configuration</string>
-    <string name="dynamic_manager_fixed_manager_summary">%1$s\nManaged by %2$s</string>
+    <string name="dynamic_manager_fixed_manager_summary">%1$s\nmanaged by %2$s</string>
     <string name="dynamic_manager_grant_confirm_title">Confirm authorization?</string>
     <string name="dynamic_manager_grant_confirm_message">The selected app will become the dynamic manager. If a dynamic manager is already configured, it will be invalidated immediately.\n\nThis grants the highest permission level for this device. If you do not know what this means, cancel.</string>
     <string name="dynamic_manager_clear_confirm_title">Clear dynamic manager</string>
